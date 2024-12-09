@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ifelse {
+public class IfElse {
    public static void main(String[] args) {
       
       System.out.println("введите возраст: ");
