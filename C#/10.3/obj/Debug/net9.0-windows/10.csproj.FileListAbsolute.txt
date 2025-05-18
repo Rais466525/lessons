@@ -1,0 +1,15 @@
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.AssemblyInfoInputs.cache
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.AssemblyInfo.cs
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.csproj.CoreCompileInputs.cache
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.sourcelink.json
+C:\RAIS\projects\PRO\lessons\C#\10.3\bin\Debug\net9.0-windows\10.exe
+C:\RAIS\projects\PRO\lessons\C#\10.3\bin\Debug\net9.0-windows\10.deps.json
+C:\RAIS\projects\PRO\lessons\C#\10.3\bin\Debug\net9.0-windows\10.runtimeconfig.json
+C:\RAIS\projects\PRO\lessons\C#\10.3\bin\Debug\net9.0-windows\10.dll
+C:\RAIS\projects\PRO\lessons\C#\10.3\bin\Debug\net9.0-windows\10.pdb
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.dll
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\refint\10.dll
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.pdb
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\10.genruntimeconfig.cache
+C:\RAIS\projects\PRO\lessons\C#\10.3\obj\Debug\net9.0-windows\ref\10.dll

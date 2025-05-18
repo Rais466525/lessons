@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ColorFilterApp/1.0.0": {
+        "runtime": {
+          "ColorFilterApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColorFilterApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

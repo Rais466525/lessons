@@ -1,11 +1,13 @@
 using System.Drawing;
+using System.Windows.Forms;
+using System;
 
 namespace _10;
 
 public partial class Form1 : Form
 {
     private float x = 0;
-    private readonly Timer timer;
+    private readonly System.Windows.Forms.Timer timer;
     private const float Speed = 2f;
     private const float Amplitude = 100f;
     private const float Frequency = 0.02f;
@@ -18,7 +20,7 @@ public partial class Form1 : Form
         this.Text = "Движение по синусоиде";
         this.DoubleBuffered = true;
 
-        timer = new Timer { Interval = 16 }; // ~60 FPS
+        timer = new System.Windows.Forms.Timer { Interval = 16 }; // ~60 FPS
         timer.Tick += Timer_Tick;
         timer.Start();
     }

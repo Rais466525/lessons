@@ -1,0 +1,15 @@
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.AssemblyInfoInputs.cache
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.AssemblyInfo.cs
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.csproj.CoreCompileInputs.cache
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.sourcelink.json
+C:\RAIS\projects\PRO\lessons\C#\11.4\bin\Debug\net9.0-windows\ColorFilterApp.exe
+C:\RAIS\projects\PRO\lessons\C#\11.4\bin\Debug\net9.0-windows\ColorFilterApp.deps.json
+C:\RAIS\projects\PRO\lessons\C#\11.4\bin\Debug\net9.0-windows\ColorFilterApp.runtimeconfig.json
+C:\RAIS\projects\PRO\lessons\C#\11.4\bin\Debug\net9.0-windows\ColorFilterApp.dll
+C:\RAIS\projects\PRO\lessons\C#\11.4\bin\Debug\net9.0-windows\ColorFilterApp.pdb
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.dll
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\refint\ColorFilterApp.dll
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.pdb
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ColorFilterApp.genruntimeconfig.cache
+C:\RAIS\projects\PRO\lessons\C#\11.4\obj\Debug\net9.0-windows\ref\ColorFilterApp.dll
